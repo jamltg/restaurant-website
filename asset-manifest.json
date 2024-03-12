@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/restaurant-website/static/css/main.361578e6.css",
-    "main.js": "/restaurant-website/static/js/main.277546eb.js",
-    "static/media/ramen.png": "/restaurant-website/static/media/ramen.2086ccaa974b71094be2.png",
-    "static/media/ramen3.png": "/restaurant-website/static/media/ramen3.d6b95a3b68ee2d4c0cfc.png",
+    "main.js": "/restaurant-website/static/js/main.72006139.js",
+    "static/media/maki.jpg": "/restaurant-website/static/media/maki.13796632a8cb4b1981b2.jpg",
+    "static/media/maki2.jpg": "/restaurant-website/static/media/maki2.7579ea40ce57e7111d2b.jpg",
+    "static/media/sashimi.jpg": "/restaurant-website/static/media/sashimi.03ba5d8164b5fd2225fe.jpg",
     "static/media/resto.jpg": "/restaurant-website/static/media/resto.e5d473c079caafe3d105.jpg",
-    "static/media/gyoza.jpg": "/restaurant-website/static/media/gyoza.18d94786d2af57d58730.jpg",
-    "static/media/koi.png": "/restaurant-website/static/media/koi.4013586251436900a47d.png",
+    "static/media/salmon.jpg": "/restaurant-website/static/media/salmon.ddd00073a55f3fdef133.jpg",
+    "static/media/ramen.jpg": "/restaurant-website/static/media/ramen.af205164917a80e8f615.jpg",
+    "static/media/ramen2.jpg": "/restaurant-website/static/media/ramen2.7fa44e31e52d556e54ef.jpg",
     "static/media/Shikamaru.ttf": "/restaurant-website/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "static/media/Nijikon.ttf": "/restaurant-website/static/media/Nijikon.b867bb975c1e9845f60c.ttf",
     "index.html": "/restaurant-website/index.html",
     "main.361578e6.css.map": "/restaurant-website/static/css/main.361578e6.css.map",
-    "main.277546eb.js.map": "/restaurant-website/static/js/main.277546eb.js.map"
+    "main.72006139.js.map": "/restaurant-website/static/js/main.72006139.js.map"
   },
   "entrypoints": [
     "static/css/main.361578e6.css",
-    "static/js/main.277546eb.js"
+    "static/js/main.72006139.js"
   ]
 }
