@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/restaurant-website/static/css/main.4b657310.css",
-    "main.js": "/restaurant-website/static/js/main.b6953d97.js",
-    "static/media/maki.jpg": "/restaurant-website/static/media/maki.13796632a8cb4b1981b2.jpg",
+    "main.css": "/restaurant-website/static/css/main.b1f7cb23.css",
+    "main.js": "/restaurant-website/static/js/main.079ff20a.js",
     "static/media/japan.jpg": "/restaurant-website/static/media/japan.9d36bbc004c18f9553b9.jpg",
     "static/media/maki2.jpg": "/restaurant-website/static/media/maki2.7579ea40ce57e7111d2b.jpg",
     "static/media/sashimi.jpg": "/restaurant-website/static/media/sashimi.03ba5d8164b5fd2225fe.jpg",
     "static/media/resto.jpg": "/restaurant-website/static/media/resto.e5d473c079caafe3d105.jpg",
+    "static/media/maki3.jpg": "/restaurant-website/static/media/maki3.c1ee7529ea2bd7b75b0a.jpg",
     "static/media/salmon.jpg": "/restaurant-website/static/media/salmon.ddd00073a55f3fdef133.jpg",
-    "static/media/ramen.jpg": "/restaurant-website/static/media/ramen.af205164917a80e8f615.jpg",
+    "static/media/sushi.jpg": "/restaurant-website/static/media/sushi.749c0ac18e7e437ad8c9.jpg",
     "static/media/ramen2.jpg": "/restaurant-website/static/media/ramen2.7fa44e31e52d556e54ef.jpg",
     "static/media/Shikamaru.ttf": "/restaurant-website/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "static/media/Nijikon.ttf": "/restaurant-website/static/media/Nijikon.b867bb975c1e9845f60c.ttf",
     "index.html": "/restaurant-website/index.html",
-    "main.4b657310.css.map": "/restaurant-website/static/css/main.4b657310.css.map",
-    "main.b6953d97.js.map": "/restaurant-website/static/js/main.b6953d97.js.map"
+    "main.b1f7cb23.css.map": "/restaurant-website/static/css/main.b1f7cb23.css.map",
+    "main.079ff20a.js.map": "/restaurant-website/static/js/main.079ff20a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b657310.css",
-    "static/js/main.b6953d97.js"
+    "static/css/main.b1f7cb23.css",
+    "static/js/main.079ff20a.js"
   ]
 }
