@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restaurant-website/static/css/main.adeaeca6.css",
-    "main.js": "/restaurant-website/static/js/main.692a8642.js",
+    "main.css": "/restaurant-website/static/css/main.58813a4b.css",
+    "main.js": "/restaurant-website/static/js/main.80717254.js",
     "static/media/japan.jpg": "/restaurant-website/static/media/japan.9d36bbc004c18f9553b9.jpg",
     "static/media/maki2.jpg": "/restaurant-website/static/media/maki2.7579ea40ce57e7111d2b.jpg",
     "static/media/sashimi.jpg": "/restaurant-website/static/media/sashimi.03ba5d8164b5fd2225fe.jpg",
@@ -18,11 +18,11 @@
     "static/media/Shikamaru.ttf": "/restaurant-website/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "static/media/Nijikon.ttf": "/restaurant-website/static/media/Nijikon.b867bb975c1e9845f60c.ttf",
     "index.html": "/restaurant-website/index.html",
-    "main.adeaeca6.css.map": "/restaurant-website/static/css/main.adeaeca6.css.map",
-    "main.692a8642.js.map": "/restaurant-website/static/js/main.692a8642.js.map"
+    "main.58813a4b.css.map": "/restaurant-website/static/css/main.58813a4b.css.map",
+    "main.80717254.js.map": "/restaurant-website/static/js/main.80717254.js.map"
   },
   "entrypoints": [
-    "static/css/main.adeaeca6.css",
-    "static/js/main.692a8642.js"
+    "static/css/main.58813a4b.css",
+    "static/js/main.80717254.js"
   ]
 }
