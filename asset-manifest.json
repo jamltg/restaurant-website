@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/restaurant-website/static/css/main.d2b434f6.css",
-    "main.js": "/restaurant-website/static/js/main.856cd7eb.js",
+    "main.css": "/restaurant-website/static/css/main.0fd4708c.css",
+    "main.js": "/restaurant-website/static/js/main.b949f54b.js",
     "static/media/ramen.png": "/restaurant-website/static/media/ramen.2086ccaa974b71094be2.png",
     "static/media/ramen3.png": "/restaurant-website/static/media/ramen3.d6b95a3b68ee2d4c0cfc.png",
     "static/media/resto.jpg": "/restaurant-website/static/media/resto.e5d473c079caafe3d105.jpg",
     "static/media/gyoza.jpg": "/restaurant-website/static/media/gyoza.18d94786d2af57d58730.jpg",
     "static/media/koi.png": "/restaurant-website/static/media/koi.4013586251436900a47d.png",
     "index.html": "/restaurant-website/index.html",
-    "main.d2b434f6.css.map": "/restaurant-website/static/css/main.d2b434f6.css.map",
-    "main.856cd7eb.js.map": "/restaurant-website/static/js/main.856cd7eb.js.map"
+    "main.0fd4708c.css.map": "/restaurant-website/static/css/main.0fd4708c.css.map",
+    "main.b949f54b.js.map": "/restaurant-website/static/js/main.b949f54b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2b434f6.css",
-    "static/js/main.856cd7eb.js"
+    "static/css/main.0fd4708c.css",
+    "static/js/main.b949f54b.js"
   ]
 }
