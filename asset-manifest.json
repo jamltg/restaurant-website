@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restaurant-website/static/css/main.9f55b6a3.css",
-    "main.js": "/restaurant-website/static/js/main.c2ddaa48.js",
+    "main.css": "/restaurant-website/static/css/main.4362a847.css",
+    "main.js": "/restaurant-website/static/js/main.b8fc9626.js",
     "static/media/japan.jpg": "/restaurant-website/static/media/japan.9d36bbc004c18f9553b9.jpg",
     "static/media/maki2.jpg": "/restaurant-website/static/media/maki2.7579ea40ce57e7111d2b.jpg",
     "static/media/sashimi.jpg": "/restaurant-website/static/media/sashimi.03ba5d8164b5fd2225fe.jpg",
@@ -9,20 +9,21 @@
     "static/media/resto.jpg": "/restaurant-website/static/media/resto.e5d473c079caafe3d105.jpg",
     "static/media/chef2.jpg": "/restaurant-website/static/media/chef2.e20ca0fd1f44df5f7404.jpg",
     "static/media/maki.jpg": "/restaurant-website/static/media/maki.647930e4f3a981aab79e.jpg",
+    "static/media/matcha.jpg": "/restaurant-website/static/media/matcha.74d22cc90d1cfcdba065.jpg",
     "static/media/maki3.jpg": "/restaurant-website/static/media/maki3.c1ee7529ea2bd7b75b0a.jpg",
     "static/media/salmon.jpg": "/restaurant-website/static/media/salmon.ddd00073a55f3fdef133.jpg",
+    "static/media/matcha2.PNG": "/restaurant-website/static/media/matcha2.2cd0f9d80ef13802f25c.PNG",
     "static/media/resto2.jpg": "/restaurant-website/static/media/resto2.3cec16e72a2fdfd8e68b.jpg",
-    "static/media/ramen.jpg": "/restaurant-website/static/media/ramen.af205164917a80e8f615.jpg",
     "static/media/sushi.jpg": "/restaurant-website/static/media/sushi.749c0ac18e7e437ad8c9.jpg",
     "static/media/ramen2.jpg": "/restaurant-website/static/media/ramen2.7fa44e31e52d556e54ef.jpg",
     "static/media/Shikamaru.ttf": "/restaurant-website/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "static/media/Nijikon.ttf": "/restaurant-website/static/media/Nijikon.b867bb975c1e9845f60c.ttf",
     "index.html": "/restaurant-website/index.html",
-    "main.9f55b6a3.css.map": "/restaurant-website/static/css/main.9f55b6a3.css.map",
-    "main.c2ddaa48.js.map": "/restaurant-website/static/js/main.c2ddaa48.js.map"
+    "main.4362a847.css.map": "/restaurant-website/static/css/main.4362a847.css.map",
+    "main.b8fc9626.js.map": "/restaurant-website/static/js/main.b8fc9626.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f55b6a3.css",
-    "static/js/main.c2ddaa48.js"
+    "static/css/main.4362a847.css",
+    "static/js/main.b8fc9626.js"
   ]
 }
